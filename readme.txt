@@ -4,3 +4,5 @@ git is free software
 Android studio
 
 hellow windows
+
+ANmign
